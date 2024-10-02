@@ -3,6 +3,12 @@
 This program will list all git repo urls from cloned repos.
 Useful? I don't know. But anyway..
 
+## Build the application
+
+```
+$ go build gitrepos.go
+```
+
 ## Usage
 
 Run the binary in a directory which contains gitrepo(s) and you will get a list of git repo urls back.
